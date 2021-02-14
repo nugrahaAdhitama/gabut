@@ -5,3 +5,4 @@ RENCANA PEMBELAJARAN KE DEPANNYA
 - Belajar PHP framework
   * Belajar CodeIgniter
 - Bikin projek pribadi
+  * Membuat gallery
