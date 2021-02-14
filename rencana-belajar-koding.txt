@@ -6,3 +6,4 @@ RENCANA PEMBELAJARAN KE DEPANNYA
   * Belajar Laravel
 - Bikin projek pribadi
   * Membuat gallery
+  * Membuat website bisa dilihat oleh banyak orang
