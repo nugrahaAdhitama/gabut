@@ -1,0 +1,5 @@
+RENCANA PEMBELAJARAN KE DEPANNYA
+
+- Belajar PHP lebih dalam
+- Belajar PHP framework
+- Bikin projek pribadi
