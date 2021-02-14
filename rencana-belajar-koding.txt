@@ -1,0 +1,7 @@
+RENCANA PEMBELAJARAN KE DEPANNYA
+
+- Belajar PHP lebih dalam
+  * Belajar OOP
+- Belajar PHP framework
+  * Belajar CodeIgniter
+- Bikin projek pribadi
