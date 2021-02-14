@@ -3,7 +3,7 @@ RENCANA PEMBELAJARAN KE DEPANNYA
 - Belajar PHP lebih dalam
   * Belajar MVC
 - Belajar PHP framework
-  * Belajar CodeIgniter
+  * Belajar Laravel
 - Bikin projek pribadi
   * Membuat gallery
   * Membuat blog pribadi
