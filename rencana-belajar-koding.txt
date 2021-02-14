@@ -1,9 +1,9 @@
 RENCANA PEMBELAJARAN KE DEPANNYA
 
 - Belajar PHP lebih dalam
-  * Belajar OOP
+  * Belajar MVC
 - Belajar PHP framework
   * Belajar Laravel
 - Bikin projek pribadi
   * Membuat gallery
-  * Membuat website bisa dilihat oleh banyak orang
+  * Membuat blog pribadi
